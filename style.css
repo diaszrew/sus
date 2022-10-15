@@ -1,0 +1,73 @@
+body{
+    background-color: #188740;
+    font: normal 15pt 
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+
+section{
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 1000px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.473);
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+} 
+
+h3{
+    color: #89C53E;
+
+} 
+
+#conteudo{
+    text-align: justify;
+}
+
+#sus{
+    width: 200px;
+    display: block;
+    margin: 0px auto;
+}
+
+h1{
+    color: #49792c;
+    text-align: center;
+}
+
+#titulo{
+    color: white;
+}
+
+ul {
+    list-style: none
+
+}
+  
+ul li:before {
+    content: '\2022';
+    margin: 0 10px;
+    color: #89C53E;
+    margin-left: 1px;
+   }
+
+
+
+#type{
+    width: 200px;
+    display: block;
+    margin: 0px auto;
+}
+#ss{
+    width: 300px;
+    display: block;
+    margin: 0px auto;
+}
